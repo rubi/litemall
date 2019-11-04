@@ -4,5 +4,7 @@
 /litemall.iml
 litemallAdminDeploy.sh
 litemallVueDeploy.sh
+litemallAll.sh
+litemallAllRemote.sh
 .idea
 /deploy
