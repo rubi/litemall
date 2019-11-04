@@ -2,4 +2,7 @@
 /private/
 /storage/
 /litemall.iml
+litemallAdminDeploy.sh
+litemallVueDeploy.sh
 .idea
+/deploy
