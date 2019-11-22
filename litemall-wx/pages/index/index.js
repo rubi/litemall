@@ -21,8 +21,8 @@ Page({
 
   onShareAppMessage: function() {
     return {
-      title: 'litemall小程序商场',
-      desc: '开源微信小程序商城',
+      title: '湖北襄阳永力通商城',
+      desc: '永力通小程序商城',
       path: '/pages/index/index'
     }
   },

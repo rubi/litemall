@@ -3,16 +3,16 @@
   <view class="about-item">
 
     <view class="item-left">
-      <label>项目名称: </label>
-       <text>{{shopInfo.name}}</text> 
+      <label>公司名称: </label>
+       <text>襄阳永力通机械有限公司</text>
     </view>
 
   </view>
 
   <view class="about-item">
     <view class="item-left">
-      <label>项目地址: </label>
-       <text>{{shopInfo.address}}</text> 
+      <label>公司地址: </label>
+       <text>襄阳市高新区邓城大道邓城工业园</text>
     </view>
 
     <view class="item-right" bindtap="showLocation">
@@ -22,8 +22,8 @@
 
   <view class="about-item">
     <view class="item-left">
-      <label>电话号码:    </label>
-       <text>{{shopInfo.linkPhone}}</text> 
+      <label>电话号码:</label>
+       <text>0710-3725679</text>
     </view>
     <view class="item-right" bindtap="callPhone">
       <image src="/static/images/telephone.png" class="right-icon"></image>
@@ -33,25 +33,25 @@
   <view class="about-item">
     <view class="item-left">
       <label>QQ交流群: </label>
-       <text>{{shopInfo.qqNumber}}</text> 
+       <text>1242607804</text>
     </view>
     <view class="item-right">
       <image src="/static/images/mobile.png" class="right-icon"></image>
     </view>
   </view>
-
-  <view class="about-item">
+<!--
+<view class="about-item">
     <view class="item-left">
       <label>当前版本: </label>
-       <text>1.0.0</text> 
+       <text>1.0.0</text>
     </view>
   </view>
 
   <view class="about-item">
     <view class="item-left">
       <label>开源协议: </label>
-       <text>MIT</text> 
+       <text>MIT</text>
     </view>
   </view>
-
+-->
 </view>

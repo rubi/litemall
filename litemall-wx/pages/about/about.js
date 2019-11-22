@@ -12,7 +12,7 @@ Page({
   data: {
     load_statue: true,
     shopInfo: {
-      name: 'litemall',
+      name: 'yltmall',
       address: 'https://github.com/linlinjava/litemall',
       latitude: 31.201900,
       longitude: 121.587839,

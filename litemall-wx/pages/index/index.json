@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "首页",
+  "navigationBarTitleText": "湖北襄阳永力通",
   "usingComponents": {
     "zan-capsule": "../../lib/zanui-weapp/capsule/index"
   }
